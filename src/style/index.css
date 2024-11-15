@@ -109,4 +109,40 @@ body {
 }
 
 /* SERVICES */
+
+/* SHORT VIEW VILLA */
+#short-view-villa {
+  background-color: #d9dfe5;
+}
+
+/* SHORT VIEW VILLA */
+/* SERVICES */
+
+#proccess-villa {
+  background-color: #c0c6cc;
+}
+
+#proccess-villaspan {
+  font-size: 18px;
+}
+
+/* SERVICES */
 /* MAIN */
+/* FOOTER */
+footer {
+  height: 100%;
+  background-color: #565656;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 10px;
+  font-size: 12px;
+}
+
+footer .brand-logo a {
+  text-decoration: none;
+  border: transparent;
+  color: white;
+  font-size: 20px;
+}
+
+/* FOOTER */
